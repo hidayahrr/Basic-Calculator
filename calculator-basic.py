@@ -11,4 +11,4 @@ elif operation == "/":
 elif operation == "*":
     print(num1 * num2)
 else:
-    print("error")
+    print("invalid operation")
